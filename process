@@ -1,3 +1,7 @@
+change a root password 
+sudo -i
+it will ask for root  password 
+
 apt-get install gdebi
 wget http://github.com/angryziber/ipscan/releases/download/3.3.3/ipscan_3.3.3_amd64.deb
 gdebi ipscan_3.3.3_amd64.deb
